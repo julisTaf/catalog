@@ -1,0 +1,11 @@
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/catalog
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/appsettings.Development.json
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/appsettings.json
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/catalog.dll
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/catalog.deps.json
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/catalog.runtimeconfig.json
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/catalog.pdb
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/Microsoft.OpenApi.dll
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/julis/Documents/DEVELOPPEMENTS/DEV_PERSO/dotnet/catalog/catalog/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
